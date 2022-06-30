@@ -11,13 +11,21 @@
     * **Features** include: customerID, gender, SeniorCitizen, Partner, Dependents, tenure, PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies, Contract, PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges
    
 ## Steps of the project: 
-* Exploring and pre-processing the data 
-* Visualising 
-* Comparing performance of various ML models
-* Fine tuning the best performing models
-* Looking for clusters in the data
-* Interpreting the results
-* Creating a dashboard in Power BI 
+* Exploring and pre-processing the data (Pandas,Numpy)
+* Visualising (Matplotlib, Seaborn, Plotly)
+* Comparing performance of various ML models (Sklearn)
+* Fine tuning the best performing models (Sklearn)
+* Looking for clusters in the data (Sklearn)
+* Interpreting the results (Sklearn)
+* Creating a dashboard (Power BI)
+    
+    
+## Machine Learning approach:
+  **Overview of the models we tested:**
+    
+  <img src="https://raw.githubusercontent.com/KristofVandewynckel/Telecom_Churn/main/assets/models.JPG" alt="models" width="350" height="400"/>
+
+    
     
 ## Visuals: 
   <img src="https://raw.githubusercontent.com/KristofVandewynckel/Telecom_Churn/main/assets/gender.png" alt="Churn" width="500" height="450"/>
