@@ -19,3 +19,12 @@
 * Interpreting the results
 * Creating a dashboard in Power BI 
     
+## Visuals: 
+  <img src="https://raw.githubusercontent.com/KristofVandewynckel/Telecom_Churn/main/assets/gender.png" alt="Churn" width="500" height="450"/>
+  <img src="https://raw.githubusercontent.com/KristofVandewynckel/Telecom_Churn/main/assets/monthly_charges.png" alt="Churn" width="500" height="450"/>
+  <img src="https://raw.githubusercontent.com/KristofVandewynckel/Telecom_Churn/main/assets/internet_connection.png" alt="Churn" width="500" height="450"/>
+  <img src="https://raw.githubusercontent.com/KristofVandewynckel/Telecom_Churn/main/assets/clusters.png" alt="Churn" width="500" height="450"/>
+  <img src="https://raw.githubusercontent.com/KristofVandewynckel/Telecom_Churn/main/assets/unknown.png" alt="Churn" width="500" height="600"/>
+
+  
+  
