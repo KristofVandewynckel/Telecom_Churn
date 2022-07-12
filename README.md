@@ -37,6 +37,7 @@ In this unsupervised way of machine learning, we take away the target column (ch
   <img src="https://raw.githubusercontent.com/KristofVandewynckel/Telecom_Churn/main/assets/clusters.png" alt="Churn" width="500" height="450"/>
 ## ROC Curve
   <img src="https://raw.githubusercontent.com/KristofVandewynckel/Telecom_Churn/main/assets/roc.JPG" alt="ROC" width="500" height="400"/>
+    
 ## Odds and Probabilities
 
 Here we have an overview of how certain featues impact the chance of churning. 
