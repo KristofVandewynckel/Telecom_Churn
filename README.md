@@ -17,7 +17,6 @@
 * Fine tuning the best performing models (Sklearn)
 * Looking for clusters in the data (Sklearn)
 * Interpreting the results (Sklearn)
-* Creating a dashboard (Power BI)
     
     
 ## Machine Learning approach:
@@ -31,8 +30,16 @@
   <img src="https://raw.githubusercontent.com/KristofVandewynckel/Telecom_Churn/main/assets/gender.png" alt="Churn" width="500" height="450"/>
   <img src="https://raw.githubusercontent.com/KristofVandewynckel/Telecom_Churn/main/assets/monthly_charges.png" alt="Churn" width="500" height="450"/>
   <img src="https://raw.githubusercontent.com/KristofVandewynckel/Telecom_Churn/main/assets/internet_connection.png" alt="Churn" width="500" height="450"/>
+  
+## Overview of the clusters.
+
+In this unsupervised way of machine learning, we take away the target column (churn? yes/no) from the database and use Kmeans clustering to let the algorithm decide for itself which customers share certain patterns.
   <img src="https://raw.githubusercontent.com/KristofVandewynckel/Telecom_Churn/main/assets/clusters.png" alt="Churn" width="500" height="450"/>
+## ROC Curve
   <img src="https://raw.githubusercontent.com/KristofVandewynckel/Telecom_Churn/main/assets/roc.JPG" alt="ROC" width="500" height="400"/>
+## Odds and Probabilities
+
+Here we have an overview of how certain featues impact the chance of churning. 
   <img src="https://raw.githubusercontent.com/KristofVandewynckel/Telecom_Churn/main/assets/unknown.png" alt="Churn" width="500" height="600"/>
 
   
